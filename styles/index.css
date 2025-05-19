@@ -136,7 +136,7 @@ body {
     padding: clamp(120px, 17vw, 180px) 0 clamp(80px, 10vw, 100px);
     background:
             linear-gradient(to top, rgba(72, 198, 239, 0.85) 0%, rgba(111, 134, 214, 0.85) 100%),
-            url("/resources/images/close-up-workers-with-briefcases.jpg") no-repeat center center;
+            url("resources/images/close-up-workers-with-briefcases.jpg") no-repeat center center;
     background-size: cover;
     color: white;
     position: relative;
