@@ -1,0 +1,40 @@
+@media (max-width: 992px) {
+    .about .container {
+        flex-direction: column;
+    }
+    .about-image {
+        margin-bottom: 40px;
+    }
+}
+
+@media (max-width: 768px) {
+    .header .container {
+        flex-direction: column;
+        gap: 20px;
+    }
+    .nav {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .hero h2 {
+        font-size: 32px;
+    }
+    .services h2 {
+        font-size: 28px;
+    }
+    .consult-btn, .nav {
+        display: none;
+    }
+}
+
+@media (max-width: 576px) {
+    .hero {
+        padding: 150px 0 80px;
+    }
+    .services-grid {
+        grid-template-columns: 1fr;
+    }
+    .modal-content {
+        padding: 30px 20px;
+    }
+}
