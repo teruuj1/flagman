@@ -25,6 +25,9 @@
     .consult-btn, .nav {
         display: none;
     }
+    .modal-content {
+        margin: 0 1vh;
+    }
 }
 
 @media (max-width: 576px) {
