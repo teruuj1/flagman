@@ -1,0 +1,16 @@
+:root {
+    --primary: #00c0ef;
+    --primary-dark: #0099c7;
+    --primary-light: #a6e5f5;
+    --secondary: #2c3e50;
+    --accent: #ff6b6b;
+    --light: #f8f9fa;
+    --dark: #212529;
+    --text: #333;
+    --text-light: #6c757d;
+
+    --min-width: 320px;
+    --max-width: 1920px;
+    --min-font: 16px;
+    --max-font: 22px;
+}
